@@ -8,7 +8,7 @@ This project leverages deep learning techniques to detect splicing forgeries in 
 Clone the project
 
 ```bash
-git clone https://github.com/Lakshit-Gupta/Image_Forgery_Detection.git
+git clone https://github.com/sonalm3214/Image-Forgery-Detection-using-Deep-Learning
 ```
 
 Go to the project directory
