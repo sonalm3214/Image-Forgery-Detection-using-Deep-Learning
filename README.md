@@ -1,4 +1,5 @@
 Image Forgery Detection using Deep Learning
+
 This project presents a robust and scalable solution for detecting image splicing forgeries using a deep learning approach. It combines pre-processing techniques with a sophisticated Convolutional Neural Network (CNN) architecture to achieve high-performance classification.
 
 ---
